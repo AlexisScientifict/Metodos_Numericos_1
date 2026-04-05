@@ -1,6 +1,6 @@
 # Métodos Numéricos: Interpolación y Aproximación 🧮
 
-Este repositorio contiene implementaciones en Python de diversos algoritmos de análisis numérico orientados a la interpolación y aproximación de funciones. Es el resultado de mi primer curso introductorio a la algoritmia numérica.
+Este repositorio contiene implementaciones en Python de diversos algoritmos de análisis numérico orientados a la interpolación y aproximación de funciones. Es el resultado de mi primer curso  a la algoritmia numérica.
 
 ## 📌 Contenido
 
