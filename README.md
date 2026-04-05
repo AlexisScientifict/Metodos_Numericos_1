@@ -36,4 +36,4 @@ $$P(x) = f[x_0] + \sum_{k=1}^{n} f[x_0, x_1, \dots, x_k] \prod_{i=0}^{k-1} (x - 
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/AlexisScientifict/Metodos-Numericos-1.git](https://github.com/AlexisScientifict/Metodos-Numericos-1.git)
+   git clone [https://github.com/AlexisScientifict/Metodos_Numericos_1.git](https://github.com/AlexisScientifict/Metodos_Numericos_1.git)
